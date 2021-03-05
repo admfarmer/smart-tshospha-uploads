@@ -7,3 +7,5 @@ bower_components/*
 app/*
 .DS_Store
 .vscode
+.env
+config
